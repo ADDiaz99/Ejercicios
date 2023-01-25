@@ -4,9 +4,9 @@
 
 #SOLUCION:
 
-print('=' * 12)
+print('=' * 30)
 print( 'Vamos a hacer una division!')
-print( '=' * 12)
+print('=' * 30)
 dividendo = float(input('Digita el primer numero => '))
 divisor = float(input('Ahora digita el numero por que quieres dividir => '))
 
