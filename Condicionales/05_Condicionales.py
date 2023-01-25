@@ -10,6 +10,6 @@ edad = int(input('Cual es tu edad? => '))
 ingresos = int(input('Cuales son tus ingresos => '))
 
 if edad > 16 and ingresos >= 1000: 
-    print('Tienes que tributar $$$')
+    print('Felicidades! :D, Tienes que tributar $$$')
 else:
     print('No es necesario que tributes.')
