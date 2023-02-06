@@ -6,3 +6,7 @@
 
 #SOLUCION:
 
+name = input(str('Cual es tu nombre completo? =>'))
+print(name.lower())
+print(name.upper())
+print(name.title())
