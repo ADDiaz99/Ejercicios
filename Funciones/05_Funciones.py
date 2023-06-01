@@ -5,13 +5,14 @@ def circle_area(radio):
     #print(f'Un circulo con un radio de {radio} metros tiene un area de {area} metros cuadrados')
     return area
 
-#circle_area(60)
+#circle_area(3)
 
 def volume_cilinder(radio, altura):
     volume = (circle_area(radio)) * altura
     print(f"Un cilindro con un radio de {radio} metros y una altura de {altura} metros, posee un volumen de {volume} metros cubicos")
     return volume
 
-volume_cilinder(8, 15)
+
+volume_cilinder(3, 16)
 
                
