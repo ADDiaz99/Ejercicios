@@ -12,8 +12,8 @@ O
 O
 O
 """
-height = 20
-width = 20
+height = int(input("How tall do you want your pattern? -->"))
+width = int(input("How wide do you want your pattern? -->"))
 
 def printzero(height, width):
     
